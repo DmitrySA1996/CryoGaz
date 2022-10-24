@@ -1,0 +1,42 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+
+
+/* секция header-----------------------------------------------------------------------------*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__main/header__main.css);
+@import url(../blocks/header/__kriogaz/header__kriogaz.css);
+@import url(../blocks/header/__krio/header__krio.css);
+@import url(../blocks/header/__gaz/header__gaz.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-bar/header__menu-bar.css);
+@import url(../blocks/header/__contacts/header__contacts.css);
+@import url(../blocks/header/__contact/header__contact.css);
+@import url(../blocks/header/__border/header__border.css);
+/* ------------------------------------------------------------------------------------------*/
+
+
+/* секция header-----------------------------------------------------------------------------*/
+@import url(../blocks/Occasions/occasions.css);
+/* ------------------------------------------------------------------------------------------*/
+
+/* секция link-contacts-----------------------------------------------------------------------------*/
+@import url(../blocks/link-contacts/link-contacts.CSS);
+/* ------------------------------------------------------------------------------------------*/
+
+
+/* секция posts-blog-----------------------------------------------------------------------------*/
+@import url(../blocks/posts-blog/posts-blog.css);
+/* ------------------------------------------------------------------------------------------*/
+
+
+/* секция footer------------------------------------------------------------------------*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-bar/footer__menu-bar.css);
+@import url(../blocks/footer/__border/footer__border.css);
+@import url(../blocks/footer/__social-icons/footer__social-icons.css);
+@import url(../blocks/footer/__icons/footer__icons.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+/* ------------------------------------------------------------------------------------------*/
