@@ -1,0 +1,19 @@
+.projects__button {
+  position: absolute;
+  left: 547px;
+  bottom: 100px;
+  outline: 1px solid #585858;
+  color: #585858;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.projects__button:hover {
+  outline: 1px solid #0F4898;
+  color: #0F4898;
+}

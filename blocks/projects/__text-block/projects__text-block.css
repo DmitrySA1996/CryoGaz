@@ -1,0 +1,14 @@
+.projects__text-block {
+    position: absolute;
+    right: 397px;
+    top: 263px;
+    padding: 30px 40px 46px 40px;
+    width: 348px;
+    height: 124px;
+    background: #FFFFFF;
+    font-family: 'Montserrat';
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 22px;
+    z-index: 1;
+}
