@@ -1,0 +1,15 @@
+.news__all-news {
+    padding: 14px 18px;
+    position: absolute;
+    right: 548px;
+    top: 108px;
+    background-color: #0F4898;
+    width: 103px;
+    height: 13px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+}

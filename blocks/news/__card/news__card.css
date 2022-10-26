@@ -1,0 +1,11 @@
+.news__card {
+    margin-right: 30px; 
+    height: 480px;
+    width: 255px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(224, 224, 224, 0.25);
+}
+
+.news__card:last-child {
+    margin-right: 0;
+}

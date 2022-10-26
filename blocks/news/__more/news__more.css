@@ -1,0 +1,14 @@
+.news__more {
+    margin: 20px 0 30px 18px;
+    padding: 14px 18px;
+    width: 86px;
+    height: 13px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #0F4898;
+    color: #FFFFFF;
+}
